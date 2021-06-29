@@ -1,0 +1,82 @@
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 300
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.000275583 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 300
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.000219341 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 300
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.000158744 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 300
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.000209066 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 300
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.000209911 segundos.
+
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 600
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.000864306 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 600
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.000870405 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 600
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.000742928 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 600
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.000894082 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 600
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.000362814 segundos.
+
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 900
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.00163609 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 900
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.00160213 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 900
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.00136502 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 900
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.00120929 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 900
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.00159015 segundos
+
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 1200
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.00144226 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 1200
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.0025472 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 1200
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.00209839 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 1200
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.00225907 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 1200
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.00130635 segundos.
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 1400
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.00312512 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 1400
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.00193132 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 1400
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.0016609 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 1400
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.00300915 segundos.
+roronoasins in ~/Documents/ppr/practicas/p2 λ mpirun -np 4 mult-mv 1400
+Invalid MIT-MAGIC-COOKIE-1 keyNo hubo errores
+El tiempo tardado ha sido 0.00299659 segundos.

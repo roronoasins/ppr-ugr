@@ -1,0 +1,77 @@
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 300
+Tiempo empleado = 0.001146
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 300
+Tiempo empleado = 0.000891
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 300
+Tiempo empleado = 0.000533
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 300
+Tiempo empleado = 0.000501
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 300
+Tiempo empleado = 0.001604
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 300
+Tiempo empleado = 0.000856
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 600
+Tiempo empleado = 0.003593
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 600
+Tiempo empleado = 0.001355
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 600
+Tiempo empleado = 0.002136
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 600
+Tiempo empleado = 0.002491
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 600
+Tiempo empleado = 0.002415
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 900
+Tiempo empleado = 0.003373
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 900
+Tiempo empleado = 0.004341
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 900
+Tiempo empleado = 0.003994
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 900
+Tiempo empleado = 0.004217
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 900
+Tiempo empleado = 0.003757
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 1200
+Tiempo empleado = 0.005258
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 1200
+Tiempo empleado = 0.004987
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 1200
+Tiempo empleado = 0.005344
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 1200
+Tiempo empleado = 0.00568
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 1200
+Tiempo empleado = 0.005339
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 1400
+Tiempo empleado = 0.00885
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 1400
+Tiempo empleado = 0.006839
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 1400
+Tiempo empleado = 0.009222
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 1400
+Tiempo empleado = 0.01035
+
+roronoasins in ~/Documents/ppr/practicas/p2 λ ./secuencial 1400
+Tiempo empleado = 0.006329

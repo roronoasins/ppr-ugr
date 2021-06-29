@@ -1,0 +1,91 @@
+\documentclass{memoria}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{float}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{hyperref}
+\usepackage{adjustbox}
+\setcounter{secnumdepth}{4}
+\usepackage[table,xcdraw]{xcolor}
+
+\algdef{SE}[VARIABLES]{Variables}{EndVariables}
+   {\algorithmicvariables}
+   {\algorithmicend\ \algorithmicvariables}
+\algnewcommand{\algorithmicvariables}{\textbf{global variables}}
+
+\begin{document}
+\pagestyle{empty} % retira numeracion de paginas
+\input{datos}
+
+\begin{center}
+\LARGE{\bf \thetitle:}\\
+%\Large{\bf \subtitulo}\\
+\end{center}
+
+%\vspace{1em}
+
+
+%\vfill
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.8]{imagenes/logo.png}
+\end{figure}
+
+
+\begin{center}
+\theauthor
+\\
+%\grupopracticas
+\end{center}
+
+\begin{center}
+Escuela Técnica Superior de Ingeniería informática y Telecomunicaciones
+
+\end{center}
+
+%\vspace{2in}
+
+\begin{center}
+\today
+%\displaydate{date}
+\end{center}
+%\afterpage{\blankpage \addtocounter{page}{1}} %addtocounter incrementa numero de pagina ya que blankpage no lo hace%
+
+
+\newpage
+
+\pagestyle{plain} %muestra numeracion de paginas%
+\tableofcontents
+
+%Lista de figuras%
+%\renewcommand{\listfigurename}{\centering LISTA DE FIGURAS}
+%\listoffigures
+%\newpage
+
+%Lista de tabelas%
+%\renewcommand{\listtablename}{\centering Índice de tablas}
+%\listoftables
+%\newpage
+
+%Sumario%
+
+\newpage
+\input{1}
+%\input{2}
+%\input{3}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Referencias %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\renewcommand{\refname}{\centering REFERENCIAS} %Centrar%
+%\addcontentsline{toc}{section}{Referencias} % añade referencias al indice
+
+\nocite{*}
+\bibliographystyle{unsrt}
+%\bibliography{references}
+
+
+\end{document}
